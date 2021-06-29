@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <h1>
+        Update Log
+    </h1>
+
+    <h2>
+        June 29, 2021
+    </h2>
+
+    <p>
+        Successfully deployed cloud functions to local host. This will allow must quicker development, as I no longer need to use the GC "deploy" to test every change, and I can debug much more easily
+    </p>
+
+</body>
+</html>
